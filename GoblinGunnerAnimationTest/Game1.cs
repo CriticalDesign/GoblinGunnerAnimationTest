@@ -10,7 +10,7 @@ namespace GoblinGunnerAnimationTest
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         
-        //A goblin gunner for our animation test.
+        //A bunch of goblin gunners for our animation test.
         private GoblinGunner _gunner1;
         private GoblinGunner _gunner2;
         private GoblinGunner _gunner3;
